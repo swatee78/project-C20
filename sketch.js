@@ -5,7 +5,7 @@ function preload() {
   catImage1 = loadAnimation("tomOne.png");
   catImage2 = loadAnimation("tomTwo.png", "tomThree.png");
   catImage3 = loadAnimation("tomFour.png")
-  mouseImage2 = loadAnimation("jerrytwo.png","jerrythree.png");
+  mouseImage2 = loadAnimation("jerryTwo.png","jerryThree.png");
   mouseImage1 = loadAnimation("jerryOne.png");
   mouseImage3 = loadAnimation("jerryFour.png");
 }
